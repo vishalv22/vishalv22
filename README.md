@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/vishalv22">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=42FFFF&center=true&vCenter=true&width=500&lines=Hi+There!+I'm+Vishal;CSE+Student+%26+Tech+Enthusiast;Learning+Python,+AI+%26+App+Dev" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=42FFFF&center=true&vCenter=true&width=500&lines=Hi+There!+I'm+Vishal;Aspiring+CSE+Student;Learning+Python,+AI+%26+App+Dev" alt="Typing SVG" />
   </a>
 </div>
 <br>
@@ -21,10 +21,7 @@
 
 
 ### About Me
->   **Background:** Computer Science & Engineering student passionate about building practical, real-world solutions.<br>
->   **Focus Areas:** Actively exploring Python, Artificial Intelligence, and modern App Development.<br>
->   **Current Endeavors:** Deepening my understanding of full-stack architecture and training/integrating AI models.<br>
->   **Looking For:** Software engineering internships and collaborative opportunities to learn from industry experts.
+> I'm an aspiring Computer Science student with a relentless drive for building things. I spend my days deep in Python and Artificial Intelligence, while actively expanding my skills into modern App Development. I'm constantly coding, learning, and leveling up my abilities to architect real-world solutions. Always ready for a new challenge! :)
 
 
 ### Arsenal & Tech Stack
