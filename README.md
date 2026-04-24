@@ -23,41 +23,41 @@
 ### About Me
 > I'm an aspiring Computer Science student with a relentless drive for building things. I spend my days deep in Python and Artificial Intelligence, while actively expanding my skills into modern App Development. I'm constantly coding, learning, and leveling up my abilities to architect real-world solutions. Always ready for a new challenge! :)
 
-
-### Arsenal & Tech Stack
+<br> 
 <div align="center">
-  <h3></h3>
+  <h3>Arsenal & Tech Stack</h3>
   <img src="https://skillicons.dev/icons?i=python,git,github,linux,html,css,js,kali,arch,blender,androidstudio,vim&theme=dark&perline=14" width="500" />
 </div>
 
 
-### Currently Building
+
 <div align="center">
-<a href="https://github.com/vishalv22/celestia">
+ <h3>Currently Building</h3>
+<!-- <a href="https://github.com/vishalv22/celestia">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vishalv22&repo=celestia&theme=dark&i=3" />
-</a>
+</a> -->
 <a href="https://github.com/vishalv22/MusicApp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vishalv22&repo=MusicApp&theme=dark&i=3" />
 </a>
 
 </div>
 
-<br>
 
-### GitHub Stats
+<!-- ### GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vishalv22&theme=dark&show_icons=true&hide_border=false&count_private=true" alt="vishalv22's Stats" height="195"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishalv22&theme=dark&hide_border=false" alt="vishalv22's Streak" height="195"/>
 </div>
-<br>
+<br> -->
 
-### Contrubution Graph
+
 <div align="center">
+ <h3>Contrubution Graphg</h3>
   <table align="center" border="0" cellpadding="0" cellspacing="0">
     <tr>
       <td valign="top">
         <a href="https://github.com/vishalv22/github-readme-activity-graph">
-          <img height="338px" src="https://github-readme-activity-graph.vercel.app/graph?username=vishalv22&bg_color=0d1117&color=47fcfd&line=45f4f3&point=d6fffe&area=true&hide_border=false" alt="Vishal's github activity graph" />
+          <img height="250px" src="https://github-readme-activity-graph.vercel.app/graph?username=vishalv22&bg_color=0d1117&color=47fcfd&line=45f4f3&point=d6fffe&area=true&hide_border=false" alt="Vishal's github activity graph" />
         </a>
       </td>
     </tr>
