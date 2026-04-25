@@ -52,12 +52,12 @@
 
 
 <div align="center">
- <h3>Contrubution Graphg</h3>
+ <h3>Contribution Graph</h3>
   <table align="center" border="0" cellpadding="0" cellspacing="0">
     <tr>
       <td valign="top">
         <a href="https://github.com/vishalv22/github-readme-activity-graph">
-          <img height="250px" src="https://github-readme-activity-graph.vercel.app/graph?username=vishalv22&bg_color=0d1117&color=47fcfd&line=45f4f3&point=d6fffe&area=true&hide_border=false" alt="Vishal's github activity graph" />
+          <img height="250px" src="https://github-readme-activity-graph.vercel.app/graph?username=vishalv22&bg_color=0d1117&color=47fcfd&line=45f4f3&point=d6fffe&area=true&hide_border=true" alt="Vishal's github activity graph" />
         </a>
       </td>
     </tr>
